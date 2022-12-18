@@ -17,6 +17,7 @@ module.exports = {
         "2xl": "1440px",
       },
     },
+    darkMode: "class", 
     extend: {
       fontFamily: {
         sans: ["var(--font-inter)", ...fontFamily.sans],

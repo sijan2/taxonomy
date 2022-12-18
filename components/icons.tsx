@@ -20,6 +20,8 @@ import {
   Twitter,
   User,
   X,
+  Sun,
+  Moon,
 } from "lucide-react"
 import type { Icon as LucideIcon } from "lucide-react"
 
@@ -47,4 +49,6 @@ export const Icons = {
   gitHub: Github,
   twitter: Twitter,
   check: Check,
+  sun: Sun,
+  moon: Moon,
 }
